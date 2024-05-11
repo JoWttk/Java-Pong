@@ -1,4 +1,4 @@
-package snakeee;
+package Mains;
 
 import java.awt.Color;
 import java.awt.Dimension;
